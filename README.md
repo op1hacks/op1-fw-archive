@@ -1,2 +1,134 @@
-# op1-fw-archive
-An archive of (almost) all OP-1 firmware versions
+# OP-1 Firmware Archive
+
+An archive of (almost) all OP-1 firmware versions.
+
+
+## Versions
+
+### [op1_11701.op1](firmware/op1_11701.op1)
+
+    - FIRMWARE VERSION: UNKNOWN
+    - BUILD VERSION: 11701
+    - BUILD DATE: 2011/05/20
+    - BUILD TIME: 19:58:21
+
+
+### [op1_11855.op1](firmware/op1_11855.op1)
+
+    - FIRMWARE VERSION: UNKNOWN
+    - BUILD VERSION: 11855
+    - BUILD DATE: 2011/06/16
+    - BUILD TIME: 16:20:46
+
+
+### [op1_12011.op1](firmware/op1_12011.op1)
+
+    - FIRMWARE VERSION: UNKNOWN
+    - BUILD VERSION: 12011
+    - BUILD DATE: 2011/09/29
+    - BUILD TIME: 13:47:59
+
+
+### [op1_12234.op1](firmware/op1_12234.op1)
+
+    - FIRMWARE VERSION: R. 12234
+    - BUILD VERSION: 12234
+    - BUILD DATE: 2011/12/05
+    - BUILD TIME: 12:10:14
+
+
+### [op1_12469.op1](firmware/op1_12469.op1)
+
+    - FIRMWARE VERSION: R. 12469
+    - BUILD VERSION: 12469
+    - BUILD DATE: 2012/01/19
+    - BUILD TIME: 05:24:14
+
+
+### [op1_12470.op1](firmware/op1_12470.op1)
+
+    - FIRMWARE VERSION: R. 12470
+    - BUILD VERSION: 12469:12470 (modified)
+    - BUILD DATE: 2012/01/20
+    - BUILD TIME: 09:00:48
+
+
+### [op1_12616.op1](firmware/op1_12616.op1)
+
+    - FIRMWARE VERSION: R. 12616
+    - BUILD VERSION: 12616
+    - BUILD DATE: 2012/03/21
+    - BUILD TIME: 17:58:54
+
+
+### [op1_12788.op1](firmware/op1_12788.op1)
+
+    - FIRMWARE VERSION: R. 12788
+    - BUILD VERSION: 12788
+    - BUILD DATE: 2012/05/25
+    - BUILD TIME: 15:34:52
+
+
+### [op1_13042.op1](firmware/op1_13042.op1)
+
+    - FIRMWARE VERSION: R. 13042
+    - BUILD VERSION: 13042
+    - BUILD DATE: 2012/08/28
+    - BUILD TIME: 17:04:53
+
+
+### [op1_13585.op1](firmware/op1_13585.op1)
+
+    - FIRMWARE VERSION: R. 13585
+    - BUILD VERSION: 13585
+    - BUILD DATE: 2013/05/25
+    - BUILD TIME: 20:08:25
+
+
+### [op1_13747.op1](firmware/op1_13747.op1)
+
+    - FIRMWARE VERSION: R. 13747
+    - BUILD VERSION: 13747
+    - BUILD DATE: 2013/10/02
+    - BUILD TIME: 17:20:23
+
+
+### [op1_14167.op1](firmware/op1_14167.op1)
+
+    - FIRMWARE VERSION: R. 14167
+    - BUILD VERSION: 14167
+    - BUILD DATE: 2014/03/25
+    - BUILD TIME: 00:35:53
+
+
+### [op1_14203.op1](firmware/op1_14203.op1)
+
+    - FIRMWARE VERSION: R. 14203
+    - BUILD VERSION: 14203
+    - BUILD DATE: 2014/04/15
+    - BUILD TIME: 10:15:36
+
+
+### [op1_218.op1](firmware/op1_218.op1)
+
+    - FIRMWARE VERSION: R. 00218
+    - BUILD VERSION: 00218
+    - BUILD DATE: UNKNOWN
+    - BUILD TIME: UNKNOWN
+
+
+### [op1_225.op1](firmware/op1_225.op1)
+
+    - FIRMWARE VERSION: R. 00225
+    - BUILD VERSION: 00225
+    - BUILD DATE: 2017/07/17
+    - BUILD TIME: 12:10:00
+
+
+### [op1_235.op1](firmware/op1_235.op1)
+
+    - FIRMWARE VERSION: R. 00235
+    - BUILD VERSION: 00235
+    - BUILD DATE: 2019/01/07
+    - BUILD TIME: 17:45:00
+
