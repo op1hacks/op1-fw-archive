@@ -7,7 +7,7 @@ An archive of (almost) all OP-1 firmware versions with additional info about eac
 
 Versions are listed in chronological order.
 
-### [op1_11701.op1](firmware/op1_11701.op1)
+### [op1_11701.op1](raw/master/firmware/op1_11701.op1)
 
     - FIRMWARE VERSION: UNKNOWN
     - BUILD VERSION: 11701
@@ -37,7 +37,7 @@ No reset should be needed to install this OS. But if you have old sampler patche
 * USB stability has been improved.
 
 
-### [op1_11855.op1](firmware/op1_11855.op1)
+### [op1_11855.op1](raw/master/firmware/op1_11855.op1)
 
     - FIRMWARE VERSION: UNKNOWN
     - BUILD VERSION: 11855
@@ -70,7 +70,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
 * At the very start and end of the tape a squeal could be heard when scrubbing. Fixed.
 
 
-### [op1_12011.op1](firmware/op1_12011.op1)
+### [op1_12011.op1](raw/master/firmware/op1_12011.op1)
 
     - FIRMWARE VERSION: UNKNOWN
     - BUILD VERSION: 12011
@@ -81,7 +81,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - NEWEST FILE: 2011/09/29 13:38
 
 
-### [op1_12234.op1](firmware/op1_12234.op1)
+### [op1_12234.op1](raw/master/firmware/op1_12234.op1)
 
     - FIRMWARE VERSION: R. 12234
     - BUILD VERSION: 12234
@@ -92,7 +92,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - NEWEST FILE: 2011/12/05 11:14
 
 
-### [op1_12469.op1](firmware/op1_12469.op1)
+### [op1_12469.op1](raw/master/firmware/op1_12469.op1)
 
     - FIRMWARE VERSION: R. 12469
     - BUILD VERSION: 12469
@@ -103,7 +103,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - NEWEST FILE: 2012/01/19 04:36
 
 
-### [op1_12470.op1](firmware/op1_12470.op1)
+### [op1_12470.op1](raw/master/firmware/op1_12470.op1)
 
     - FIRMWARE VERSION: R. 12470
     - BUILD VERSION: 12469:12470 (modified)
@@ -127,7 +127,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
 * Tap Tempo is improved.
 
 
-### [op1_12616.op1](firmware/op1_12616.op1)
+### [op1_12616.op1](raw/master/firmware/op1_12616.op1)
 
     - FIRMWARE VERSION: R. 12616
     - BUILD VERSION: 12616
@@ -152,7 +152,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
 * LFO did not update all graphics correctly. Fixed.
 
 
-### [op1_12788.op1](firmware/op1_12788.op1)
+### [op1_12788.op1](raw/master/firmware/op1_12788.op1)
 
     - FIRMWARE VERSION: R. 12788
     - BUILD VERSION: 12788
@@ -163,7 +163,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - NEWEST FILE: 2012/05/25 15:08
 
 
-### [op1_13042.op1](firmware/op1_13042.op1)
+### [op1_13042.op1](raw/master/firmware/op1_13042.op1)
 
     - FIRMWARE VERSION: R. 13042
     - BUILD VERSION: 13042
@@ -187,7 +187,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
 * Pro Tip: Shift+Synth & Shift+Drum to Recall the current patch.
 
 
-### [op1_13585.op1](firmware/op1_13585.op1)
+### [op1_13585.op1](raw/master/firmware/op1_13585.op1)
 
     - FIRMWARE VERSION: R. 13585
     - BUILD VERSION: 13585
@@ -203,7 +203,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
 * CWO effect added.
 
 
-### [op1_13747.op1](firmware/op1_13747.op1)
+### [op1_13747.op1](raw/master/firmware/op1_13747.op1)
 
     - FIRMWARE VERSION: R. 13747
     - BUILD VERSION: 13747
@@ -214,7 +214,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - NEWEST FILE: 2013/11/11 20:22
 
 
-### [op1_14167.op1](firmware/op1_14167.op1)
+### [op1_14167.op1](raw/master/firmware/op1_14167.op1)
 
     - FIRMWARE VERSION: R. 14167
     - BUILD VERSION: 14167
@@ -225,7 +225,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - NEWEST FILE: 2014/03/24 23:59
 
 
-### [op1_14203.op1](firmware/op1_14203.op1)
+### [op1_14203.op1](raw/master/firmware/op1_14203.op1)
 
     - FIRMWARE VERSION: R. 14203
     - BUILD VERSION: 14203
@@ -243,7 +243,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
 * M1 and M2 now works together
 
 
-### [op1_218.op1](firmware/op1_218.op1)
+### [op1_218.op1](raw/master/firmware/op1_218.op1)
 
     - FIRMWARE VERSION: R. 00218
     - BUILD VERSION: 00218
@@ -254,7 +254,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - NEWEST FILE: 2019/04/25 13:42
 
 
-### [op1_220.op1](firmware/op1_220.op1)
+### [op1_220.op1](raw/master/firmware/op1_220.op1)
 
     - FIRMWARE VERSION: R. 00220
     - BUILD VERSION: 00220
@@ -265,7 +265,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - NEWEST FILE: 2017/04/20 08:17
 
 
-### [op1_225.op1](firmware/op1_225.op1)
+### [op1_225.op1](raw/master/firmware/op1_225.op1)
 
     - FIRMWARE VERSION: R. 00225
     - BUILD VERSION: 00225
@@ -291,7 +291,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
 * added tempo nudge when running on external tempo
 
 
-### [op1_235.op1](firmware/op1_235.op1)
+### [op1_235.op1](raw/master/firmware/op1_235.op1)
 
     - FIRMWARE VERSION: R. 00235
     - BUILD VERSION: 00235
