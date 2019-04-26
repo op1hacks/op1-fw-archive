@@ -290,6 +290,10 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - OLDEST FILE: 2017/07/01 09:11
     - NEWEST FILE: 2017/07/17 10:12
 
+*Change Log (unofficial)*
+
+* Glitch in DNA synth graphics fixed (see: https://imgur.com/u9JGFv9)
+
 
 ### [op1_235.op1](firmware/op1_235.op1?raw=true)
 
