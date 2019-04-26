@@ -253,6 +253,21 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - OLDEST FILE: 2016/01/25 10:34
     - NEWEST FILE: 2019/04/25 13:42
 
+*Change Log*
+
+* all new presets
+* new synth voltage
+* new sequencer arpeggio
+* tape loops are now automatically crossfaded
+* tape effect chop twice as short
+* tape effect chop now works at tape start/stop position and across loop wrap
+* in the fm radio press green encoder to autotune
+* endless sequencer extended to 128 steps
+* tremolo lfo updated with extra waveforms
+* PO sync mode added
+* sync to external midi clock now directly drives sequencers
+* added tempo nudge when running on external tempo
+
 
 ### [op1_220.op1](firmware/op1_220.op1?raw=true)
 
@@ -274,21 +289,6 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - BOOTLOADER VERSION: 2.13
     - OLDEST FILE: 2017/07/01 09:11
     - NEWEST FILE: 2017/07/17 10:12
-
-*Change Log*
-
-* all new presets
-* new synth voltage
-* new sequencer arpeggio
-* tape loops are now automatically crossfaded
-* tape effect chop twice as short
-* tape effect chop now works at tape start/stop position and across loop wrap 
-* in the fm radio press green encoder to autotune
-* endless sequencer extended to 128 steps
-* tremolo lfo updated with extra waveforms
-* PO sync mode added
-* sync to external midi clock now directly drives sequencers
-* added tempo nudge when running on external tempo
 
 
 ### [op1_235.op1](firmware/op1_235.op1?raw=true)
