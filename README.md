@@ -17,7 +17,7 @@ Versions are listed in chronological order.
     - OLDEST FILE: 2011/03/02 15:44
     - NEWEST FILE: 2011/05/20 17:59
 
-*Change Log*
+**Change Log**
 
 No reset should be needed to install this OS. But if you have old sampler patches with the same name they need to be manually removed via disk mode one by one.
 
@@ -47,7 +47,7 @@ No reset should be needed to install this OS. But if you have old sampler patche
     - OLDEST FILE: 2011/03/02 15:46
     - NEWEST FILE: 2011/06/16 14:25
 
-*Change Log*
+**Change Log**
 
 We recommend everyone that is upgrading from an OS lower then #11851 to do a "8". Format Drive in the TE-Boot menu.
 Doing a Format is only needed the first time this OS is installed. Remember to backup your data!
@@ -113,7 +113,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - OLDEST FILE: 2010/06/09 17:44
     - NEWEST FILE: 2012/01/20 16:42
 
-*Change Log*
+**Change Log**
 
 * Added Finger sequencer.
 * Added DrumBox drum synth.
@@ -137,7 +137,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - OLDEST FILE: 2012/03/21 14:16
     - NEWEST FILE: 2012/03/21 17:00
 
-*Change Log*
+**Change Log**
 
 * Tape import from external material now possible.
 * Added MIDI Start and Stop.
@@ -173,7 +173,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - OLDEST FILE: 2011/03/02 15:46
     - NEWEST FILE: 2012/08/28 15:08
 
-*Change Log*
+**Change Log**
 
 * Nitro effect added.
 * Crank LFO added.
@@ -197,7 +197,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - OLDEST FILE: 2013/04/04 11:54
     - NEWEST FILE: 2013/05/26 15:25
 
-*Change Log*
+**Change Log**
 
 * DNA synth added.
 * CWO effect added.
@@ -235,12 +235,38 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - OLDEST FILE: 2013/12/06 08:53
     - NEWEST FILE: 2019/04/25 13:42
 
-*Change Log*
+**Change Log**
 
 * DSynth synthesizer engine
 * Sketch sequencer
 * Master tune
 * M1 and M2 now works together
+
+
+### [op1_076.op1](firmware/op1_076.op1?raw=true)
+
+Leaked beta firmware, see op1_218 for the official release.
+
+    - FIRMWARE VERSION: UNKNOWN
+    - BUILD VERSION: UNKNOWN
+    - BUILD DATE: UNKNOWN
+    - BUILD TIME: UNKNOWN
+    - BOOTLOADER VERSION: 1.47
+    - OLDEST FILE: 2016/03/21 18:24
+    - NEWEST FILE: 2016/03/24 09:40
+
+
+### [op1_216.op1](firmware/op1_216.op1?raw=true)
+
+Leaked beta firmware, see op1_218 for the official release.
+
+    - FIRMWARE VERSION: R. 00216
+    - BUILD VERSION: 00216
+    - BUILD DATE: UNKNOWN
+    - BUILD TIME: UNKNOWN
+    - BOOTLOADER VERSION: 2.01
+    - OLDEST FILE: 2016/01/25 10:34
+    - NEWEST FILE: 2016/11/21 10:28
 
 
 ### [op1_218.op1](firmware/op1_218.op1?raw=true)
@@ -253,7 +279,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - OLDEST FILE: 2016/01/25 10:34
     - NEWEST FILE: 2019/04/25 13:42
 
-*Change Log*
+**Change Log**
 
 * all new presets
 * new synth voltage
@@ -290,7 +316,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - OLDEST FILE: 2017/07/01 09:11
     - NEWEST FILE: 2017/07/17 10:12
 
-*Change Log (unofficial)*
+**Change Log (unofficial)**
 
 * Glitch in DNA synth graphics fixed (see: https://imgur.com/u9JGFv9)
 
@@ -305,7 +331,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - OLDEST FILE: 2017/05/02 12:11
     - NEWEST FILE: 2019/04/25 12:06
 
-*Change Log*
+**Change Log**
 
 * shift + stop toggles hi-res tape grid for editing
 * when in external sync sequencers are now started in sync with the beat
@@ -323,7 +349,6 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
 * op1_11346.op1
 * op1_11381.op1
 * op1_11479.op1
-* op1_216.op1 (private beta)
 
 
 ## Sources
