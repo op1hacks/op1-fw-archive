@@ -24,7 +24,7 @@ No reset should be needed to install this OS. But if you have old sampler patche
 * Switching instrument while receiving external MIDI could sometimes trigger an error. Fixed.
 * When switching between synth and drum with sequencers active in both modes an error would sometimes trigger. Fixed.
 * What-you-hear was not possible to record to tape. Fixed.
-* Solo was not kept if navigating away from the tape screen. Fixed. 
+* Solo was not kept if navigating away from the tape screen. Fixed.
 * Sliding of clips could sometimes make the audio go silent. Fixed.
 * Solo was disabled when the tape was in record. Fixed.
 * Snapshots saved within the same minute would get the same name. Fixed.
@@ -56,7 +56,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
 * Sustain loops and base note are now imported into synth sampler patches.
 * Disk Mode now listens to the 'Eject' USB message.
 * After extended usage in certain conditions the OP-1 could get into a state that required a reset. Fixed.
-* When using octave shift and pitch at the same time in the Drum Sampler the pitch would sometimes be incorrect. Fixed. 
+* When using octave shift and pitch at the same time in the Drum Sampler the pitch would sometimes be incorrect. Fixed.
 * When switching between sounds in the presetbrowser and playing at the same time under certain conditions an error would rigger. Fixed.
 * The Drum Sampler could under rare conditions trigger an error. Fixed.
 * When using the Synth Sampler and the Value LFO on loop points an error could be triggered. Fixed.
@@ -339,6 +339,17 @@ Leaked beta firmware, see op1_218 for the official release.
 * dropping a synth sample patch on a synth slot could under some circumstances generate an assert: fixed.
 * when lifting clips from a loop sometimes the cut was not perfect: fixed.
 * tape/mixer mutes was not faded like tape solo is: fixed.
+
+
+### [op1_237.op1](firmware/op1_237.op1?raw=true)
+
+    - FIRMWARE VERSION: R. 00237
+    - BUILD VERSION: 00237
+    - BUILD DATE: 2019/07/26
+    - BUILD TIME: 14:36:50
+    - BOOTLOADER VERSION: 2.21
+    - OLDEST FILE: 2017/05/02 12:11
+    - NEWEST FILE: 2019/07/26 14:07
 
 
 ## Missing files
