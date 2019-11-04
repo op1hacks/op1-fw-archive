@@ -341,6 +341,31 @@ Leaked beta firmware, see op1_218 for the official release.
 * tape/mixer mutes was not faded like tape solo is: fixed.
 
 
+### [op1_237.op1](firmware/op1_237.op1?raw=true)
+
+    - FIRMWARE VERSION: R. 00237
+    - BUILD VERSION: 00237
+    - BUILD DATE: 2019/07/26
+    - BUILD TIME: 14:36:50
+    - BOOTLOADER VERSION: 2.21
+    - OLDEST FILE: 2017/05/02 12:11
+    - NEWEST FILE: 2019/07/26 14:07
+
+**Change Log**
+
+* shift + stop toggles hi-res tape grid for editing
+* when in external sync sequencers are now started in sync with the beat
+* pattern sequencer did not always play correctly when triggered from external MIDI: fixed.
+* dropping a synth sample patch on a synth slot could under some circumstances generate an assert: fixed.
+* when lifting clips from a loop sometimes the cut was not perfect: fixed.
+* tape/mixer mutes was not faded like tape solo is: fixed.
+
+*NOTE*
+The change log is the same as the previous release.
+From a message from TE support: "The notes on this firmware are actually correct. Our developers have only improved it."
+[Source](https://op-forums.com/t/op-1-firmware-237/15158/19).
+
+
 ## Missing files
 
 * op1_11029.op1
