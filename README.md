@@ -366,6 +366,21 @@ From a message from TE support: "The notes on this firmware are actually correct
 [Source](https://op-forums.com/t/op-1-firmware-237/15158/19).
 
 
+### [op1_241.op1](firmware/op1_241.op1?raw=true)
+
+    - FIRMWARE VERSION: R. 00241
+    - BUILD VERSION: 00241
+    - BUILD DATE: 2019/11/22
+    - BUILD TIME: 11:47:20
+    - BOOTLOADER VERSION: 2.27
+    - OLDEST FILE: 2018/10/28 22:19
+    - NEWEST FILE: 2019/11/22 12:37
+
+**Change Log**
+
+*Changelog has once again not been updated and is the same as the previous release.*
+
+
 ## Missing files
 
 * op1_11029.op1
