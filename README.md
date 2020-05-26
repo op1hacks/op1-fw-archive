@@ -381,6 +381,24 @@ From a message from TE support: "The notes on this firmware are actually correct
 *Changelog has once again not been updated and is the same as the previous release.*
 
 
+### [op1_242.op1](firmware/op1_242.op1?raw=true)
+
+    - FIRMWARE VERSION: R. 00242
+    - BUILD VERSION: 00242
+    - BUILD DATE: 2020/04/06
+    - BUILD TIME: 10:12:15
+    - BOOTLOADER VERSION: 2.27
+    - OLDEST FILE: 2017/05/02 12:11
+    - NEWEST FILE: 2020/04/06 11:14
+
+**Change Log**
+
+fixed bugs:
+* in some cases radio gain could affect mic gain in rec screen
+* vertical graphics tear in screen center removed
+* octave shift not functional in CTRL mode on previous os release
+
+
 ## Missing files
 
 * op1_11029.op1
