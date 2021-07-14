@@ -399,6 +399,32 @@ fixed bugs:
 * octave shift not functional in CTRL mode on previous os release
 
 
+### [op1_243.op1](firmware/op1_243.op1?raw=true) 2021-07-14
+
+    - FIRMWARE VERSION: R. 00243
+    - BUILD VERSION: 00243
+    - BUILD DATE: 2021/06/17
+    - BUILD TIME: 09:18:00
+    - BOOTLOADER VERSION: 2.29
+    - OLDEST FILE: 2017/05/02 12:11
+    - NEWEST FILE: 2021/06/17 08:44
+
+**Change Log**
+
+* added usb audio device in & out, allowing direct digital recording to and from your favorite pod application or daw
+* external tempo sync stability improved
+* when tape is armed and OP-1 receives a play command, recording now starts
+* fixed: switching between fm radio autotune and manual tuning sometimes could crash the synth
+* fixed: sketch sequencer in drum mode could crash under certain circumstances
+* fixed: using shift left when sliding a clip could cause a crash
+* fixed: stolen notes would sometimes play at incorrect volume when using external keyboard
+* fixed: adjusted position of stats in chop lifter which sometimes was not visible
+* fixed: screen sometimes could go black during user test in te-boot
+* fixed: external tempo stability improved, especially when pressing the play button
+* updated: OP-1 sysex identity reply now reflects product family, model and firmware with actual version numbers. previously these values were zero
+
+
+
 ## Missing files
 
 * op1_11029.op1
