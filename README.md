@@ -7,7 +7,9 @@ An archive of (almost) all OP-1 firmware versions with additional info about eac
 
 Versions are listed in chronological order.
 
-### [op1_11701.op1](firmware/op1_11701.op1?raw=true)
+### Original
+
+### [op1_11701.op1](firmware/original/op1_11701.op1?raw=true)
 
     - FIRMWARE VERSION: UNKNOWN
     - BUILD VERSION: 11701
@@ -37,7 +39,7 @@ No reset should be needed to install this OS. But if you have old sampler patche
 * USB stability has been improved.
 
 
-### [op1_11855.op1](firmware/op1_11855.op1?raw=true)
+### [op1_11855.op1](firmware/original/op1_11855.op1?raw=true)
 
     - FIRMWARE VERSION: UNKNOWN
     - BUILD VERSION: 11855
@@ -70,7 +72,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
 * At the very start and end of the tape a squeal could be heard when scrubbing. Fixed.
 
 
-### [op1_12011.op1](firmware/op1_12011.op1?raw=true)
+### [op1_12011.op1](firmware/original/op1_12011.op1?raw=true)
 
     - FIRMWARE VERSION: UNKNOWN
     - BUILD VERSION: 12011
@@ -81,7 +83,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - NEWEST FILE: 2011/09/29 13:38
 
 
-### [op1_12234.op1](firmware/op1_12234.op1?raw=true)
+### [op1_12234.op1](firmware/original/op1_12234.op1?raw=true)
 
     - FIRMWARE VERSION: R. 12234
     - BUILD VERSION: 12234
@@ -92,7 +94,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - NEWEST FILE: 2011/12/05 11:14
 
 
-### [op1_12469.op1](firmware/op1_12469.op1?raw=true)
+### [op1_12469.op1](firmware/original/op1_12469.op1?raw=true)
 
     - FIRMWARE VERSION: R. 12469
     - BUILD VERSION: 12469
@@ -103,7 +105,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - NEWEST FILE: 2012/01/19 04:36
 
 
-### [op1_12470.op1](firmware/op1_12470.op1?raw=true)
+### [op1_12470.op1](firmware/original/op1_12470.op1?raw=true)
 
     - FIRMWARE VERSION: R. 12470
     - BUILD VERSION: 12469:12470 (modified)
@@ -127,7 +129,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
 * Tap Tempo is improved.
 
 
-### [op1_12616.op1](firmware/op1_12616.op1?raw=true)
+### [op1_12616.op1](firmware/original/op1_12616.op1?raw=true)
 
     - FIRMWARE VERSION: R. 12616
     - BUILD VERSION: 12616
@@ -152,7 +154,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
 * LFO did not update all graphics correctly. Fixed.
 
 
-### [op1_12788.op1](firmware/op1_12788.op1?raw=true)
+### [op1_12788.op1](firmware/original/op1_12788.op1?raw=true)
 
     - FIRMWARE VERSION: R. 12788
     - BUILD VERSION: 12788
@@ -163,7 +165,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - NEWEST FILE: 2012/05/25 15:08
 
 
-### [op1_13042.op1](firmware/op1_13042.op1?raw=true)
+### [op1_13042.op1](firmware/original/op1_13042.op1?raw=true)
 
     - FIRMWARE VERSION: R. 13042
     - BUILD VERSION: 13042
@@ -187,7 +189,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
 * Pro Tip: Shift+Synth & Shift+Drum to Recall the current patch.
 
 
-### [op1_13585.op1](firmware/op1_13585.op1?raw=true)
+### [op1_13585.op1](firmware/original/op1_13585.op1?raw=true)
 
     - FIRMWARE VERSION: R. 13585
     - BUILD VERSION: 13585
@@ -203,7 +205,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
 * CWO effect added.
 
 
-### [op1_13747.op1](firmware/op1_13747.op1?raw=true)
+### [op1_13747.op1](firmware/original/op1_13747.op1?raw=true)
 
     - FIRMWARE VERSION: R. 13747
     - BUILD VERSION: 13747
@@ -214,7 +216,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - NEWEST FILE: 2013/11/11 20:22
 
 
-### [op1_14167.op1](firmware/op1_14167.op1?raw=true)
+### [op1_14167.op1](firmware/original/op1_14167.op1?raw=true)
 
     - FIRMWARE VERSION: R. 14167
     - BUILD VERSION: 14167
@@ -225,7 +227,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
     - NEWEST FILE: 2014/03/24 23:59
 
 
-### [op1_14203.op1](firmware/op1_14203.op1?raw=true)
+### [op1_14203.op1](firmware/original/op1_14203.op1?raw=true)
 
     - FIRMWARE VERSION: R. 14203
     - BUILD VERSION: 14203
@@ -243,7 +245,7 @@ Doing a Format is only needed the first time this OS is installed. Remember to b
 * M1 and M2 now works together
 
 
-### [op1_076.op1](firmware/op1_076.op1?raw=true)
+### [op1_076.op1](firmware/original/op1_076.op1?raw=true)
 
 Leaked beta firmware, see op1_218 for the official release.
 
@@ -256,7 +258,7 @@ Leaked beta firmware, see op1_218 for the official release.
     - NEWEST FILE: 2016/03/24 09:40
 
 
-### [op1_216.op1](firmware/op1_216.op1?raw=true)
+### [op1_216.op1](firmware/original/op1_216.op1?raw=true)
 
 Leaked beta firmware, see op1_218 for the official release.
 
@@ -269,7 +271,7 @@ Leaked beta firmware, see op1_218 for the official release.
     - NEWEST FILE: 2016/11/21 10:28
 
 
-### [op1_218.op1](firmware/op1_218.op1?raw=true)
+### [op1_218.op1](firmware/original/op1_218.op1?raw=true)
 
     - FIRMWARE VERSION: R. 00218
     - BUILD VERSION: 00218
@@ -295,7 +297,7 @@ Leaked beta firmware, see op1_218 for the official release.
 * added tempo nudge when running on external tempo
 
 
-### [op1_220.op1](firmware/op1_220.op1?raw=true)
+### [op1_220.op1](firmware/original/op1_220.op1?raw=true)
 
     - FIRMWARE VERSION: R. 00220
     - BUILD VERSION: 00220
@@ -306,7 +308,7 @@ Leaked beta firmware, see op1_218 for the official release.
     - NEWEST FILE: 2017/04/20 08:17
 
 
-### [op1_225.op1](firmware/op1_225.op1?raw=true)
+### [op1_225.op1](firmware/original/op1_225.op1?raw=true)
 
     - FIRMWARE VERSION: R. 00225
     - BUILD VERSION: 00225
@@ -321,7 +323,7 @@ Leaked beta firmware, see op1_218 for the official release.
 * Glitch in DNA synth graphics fixed (see: https://imgur.com/u9JGFv9)
 
 
-### [op1_235.op1](firmware/op1_235.op1?raw=true)
+### [op1_235.op1](firmware/original/op1_235.op1?raw=true)
 
     - FIRMWARE VERSION: R. 00235
     - BUILD VERSION: 00235
@@ -341,7 +343,7 @@ Leaked beta firmware, see op1_218 for the official release.
 * tape/mixer mutes was not faded like tape solo is: fixed.
 
 
-### [op1_237.op1](firmware/op1_237.op1?raw=true)
+### [op1_237.op1](firmware/original/op1_237.op1?raw=true)
 
     - FIRMWARE VERSION: R. 00237
     - BUILD VERSION: 00237
@@ -366,7 +368,7 @@ From a message from TE support: "The notes on this firmware are actually correct
 [Source](https://op-forums.com/t/op-1-firmware-237/15158/19).
 
 
-### [op1_241.op1](firmware/op1_241.op1?raw=true)
+### [op1_241.op1](firmware/original/op1_241.op1?raw=true)
 
     - FIRMWARE VERSION: R. 00241
     - BUILD VERSION: 00241
@@ -381,7 +383,7 @@ From a message from TE support: "The notes on this firmware are actually correct
 *Changelog has once again not been updated and is the same as the previous release.*
 
 
-### [op1_242.op1](firmware/op1_242.op1?raw=true) 2020-05-11
+### [op1_242.op1](firmware/original/op1_242.op1?raw=true) 2020-05-11
 
     - FIRMWARE VERSION: R. 00242
     - BUILD VERSION: 00242
@@ -399,7 +401,7 @@ fixed bugs:
 * octave shift not functional in CTRL mode on previous os release
 
 
-### [op1_243.op1](firmware/op1_243.op1?raw=true) 2021-07-14
+### [op1_243.op1](firmware/original/op1_243.op1?raw=true) 2021-07-14
 
     - FIRMWARE VERSION: R. 00243
     - BUILD VERSION: 00243
@@ -423,6 +425,33 @@ fixed bugs:
 * fixed: external tempo stability improved, especially when pressing the play button
 * updated: OP-1 sysex identity reply now reflects product family, model and firmware with actual version numbers. previously these values were zero
 
+### Field
+
+### [op1_field_firmware_1_1_2.tfw](firmware/field/op1_field_firmware_1_1_2.tfw?raw=true) 2022-05-12
+
+todo: find this info
+
+	- FIRMWARE VERSION: 1.1.2
+    - BUILD VERSION: ???
+    - BUILD DATE: ???
+    - BUILD TIME: ???
+    - BOOTLOADER VERSION: ???
+    - OLDEST FILE: ???
+    - NEWEST FILE: ???
+	
+**Change Log**
+
+* mtp/disk improvements & fixes
+* improved ble connection stability
+* low battery warning popup
+* delayed power switch setting
+* enable compressor and limiter on fm transmitter
+* interpolate master compressor settings
+* add battery info to system settings
+* synth: show user samples on shift+T1
+* scroll through preset names too long to fit
+* transmit OP–1 fm radio station name
+* autoset system clock from fm radio
 
 
 ## Missing files
@@ -440,3 +469,4 @@ fixed bugs:
 * https://teenage.engineering
 * http://oper8.free.fr/op1_os
 * https://op-forums.com
+
