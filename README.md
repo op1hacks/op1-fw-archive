@@ -424,6 +424,21 @@ fixed bugs:
 * updated: OP-1 sysex identity reply now reflects product family, model and firmware with actual version numbers. previously these values were zero
 
 
+### [op1_245.op1](firmware/op1_245.op1?raw=true) 2021-09-09
+
+    - FIRMWARE VERSION: R. 00245
+    - BUILD VERSION: 00245
+    - BUILD DATE: 2022/05/30
+    - BUILD TIME: 15:13:00
+    - BOOTLOADER VERSION: 2.30
+    - OLDEST FILE: 2017/05/02 12:11
+    - NEWEST FILE: 2022/05/30 14:26
+
+**Change Log**
+
+* added support for latest revision displays
+* improved tape loop click reduction
+
 
 ## Missing files
 
