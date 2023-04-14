@@ -440,6 +440,21 @@ fixed bugs:
 * improved tape loop click reduction
 
 
+### [op1_246.op1](firmware/op1_246.op1?raw=true) 2022-12-13
+
+    - FIRMWARE VERSION: R. 00246
+    - BUILD VERSION: 00246
+    - BUILD DATE: 2022/11/09
+    - BUILD TIME: 16:17:00
+    - BOOTLOADER VERSION: 2.30
+    - OLDEST FILE: 2022/11/09 11:16
+    - NEWEST FILE: 2022/11/09 15:23
+
+**Change Log**
+
+* fixed line in/mic/radio recording noise
+
+
 ## Missing files
 
 * op1_11029.op1
