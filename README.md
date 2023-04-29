@@ -5,9 +5,9 @@ An archive of (almost) all OP-1 firmware versions with additional info about eac
 
 ## Versions
 
-Versions are listed in chronological order.
+Versions are listed in chronological order. The most recent version is at the bottom of this file.
 
-### [op1_11701.op1](firmware/op1_11701.op1?raw=true)
+### Oldest version: 2011/05/20 [op1_11701.op1](firmware/op1_11701.op1?raw=true)
 
     - FIRMWARE VERSION: UNKNOWN
     - BUILD VERSION: 11701
@@ -424,7 +424,7 @@ fixed bugs:
 * updated: OP-1 sysex identity reply now reflects product family, model and firmware with actual version numbers. previously these values were zero
 
 
-### [op1_245.op1](firmware/op1_245.op1?raw=true) 2021-09-09
+### [op1_245.op1](firmware/op1_245.op1?raw=true) 2022-09-09
 
     - FIRMWARE VERSION: R. 00245
     - BUILD VERSION: 00245
@@ -438,6 +438,9 @@ fixed bugs:
 
 * added support for latest revision displays
 * improved tape loop click reduction
+
+*NOTE*
+This is the first firmware after the release of the OP-1 field. The firmware versions of the OP-1 field can be found [here](https://github.com/op1hacks/op1-field-fw-archive).
 
 
 ### [op1_246.op1](firmware/op1_246.op1?raw=true) 2022-12-13
